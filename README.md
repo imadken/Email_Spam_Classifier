@@ -3,6 +3,8 @@
 
 This repository contains code for an email spam/non-spam classifier. The classifier is trained on a dataset of labeled emails to distinguish between spam and non-spam emails.
 
+Multiple Machine learning techniques have been used such as XGBoost, RandomForest, Logistic Regression ..
+
 ## Dataset
 
 The dataset used for training and evaluation can be found at the following link:
